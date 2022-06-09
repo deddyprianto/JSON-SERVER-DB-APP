@@ -793,5 +793,13 @@
       "name": "Wilfred Arana Dress",
       "price": 74000
     }
+  ],
+  "chat": [
+    {
+      "name": "deddy",
+      "createdAt": "2022-05-05T14:51:30.394Z",
+      "updatedAt": "2022-05-05T14:51:30.394Z",
+      "clientOnly": true
+    }
   ]
 }
