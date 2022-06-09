@@ -1,0 +1,797 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imgSrc": "https://i.ibb.co/q79KfQr/pexels-pixabay-276583-removebg-preview-1.png",
+      "title": "Sectional Sofa",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imgSrc": "https://i.ibb.co/3BbZvtQ/pexels-andrea-piacquadio-3757055-removebg-preview-1.png",
+      "title": "Two Seater Sofa",
+      "price": 2900,
+      "stock": 15,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imgSrc": "https://i.ibb.co/zP9sWqP/phillip-goldsberry-f-Zule-Efe-A1-Q-unsplash-1-removebg-preview-1.png",
+      "title": "Bring Sofa Soft",
+      "price": 78900,
+      "stock": 21,
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imgSrc": "https://i.ibb.co/K6PL38P/pexels-pixabay-276566-removebg-preview-1.png",
+      "title": "Large Sofa Maje",
+      "price": 6902,
+      "stock": 20,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imgSrc": "https://i.ibb.co/SPyYgjw/pexels-martin-p-chy-1866149-removebg-preview-1.png",
+      "title": "Wheel Sofa Wih Drunk",
+      "price": 78900,
+      "stock": 43,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "imgSrc": "https://i.ibb.co/SPyYgjw/pexels-martin-p-chy-1866149-removebg-preview-1.png",
+      "title": "Corona Sofa",
+      "price": 78900,
+      "stock": 4,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    }
+  ],
+  "productsHome": [
+    {
+      "id": 1,
+      "imgSrc": "https://tdc-images.tolunastart-tdcprod.com/2017/03/10/f30e5a8b-6e72-40a8-b24b-849600bf12a7_x365.jpg",
+      "title": "Alat-alat rumah tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imgSrc": "https://tdc-images.tolunastart-tdcprod.com/2017/03/10/f30e5a8b-6e72-40a8-b24b-849600bf12a7_x365.jpg",
+      "title": "Alat-alat rumah tangga Bagian kedua",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "imgSrc": "https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/MsxRpV6MIC.jpg",
+      "title": "Alat-alat rumah tangga Bagian kedua",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "imgSrc": "https://tdc-images.tolunastart-tdcprod.com/2017/03/10/f30e5a8b-6e72-40a8-b24b-849600bf12a7_x365.jpg",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "imgSrc": "https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/MsxRpV6MIC.jpg",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "imgSrc": "https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/MsxRpV6MIC.jpg",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "imgSrc": "https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/MsxRpV6MIC.jpg",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "imgSrc": "https://lzd-img-global.slatic.net/g/p/93ec74cef74d886bffa7c5c58d5d104e.jpg_720x720q80.jpg_.webp",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "imgSrc": "https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/MsxRpV6MIC.jpg",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "imgSrc": "https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/MsxRpV6MIC.jpg",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "imgSrc": "https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/MsxRpV6MIC.jpg",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "imgSrc": "https://s3.ap-southeast-1.amazonaws.com/assets-blog.spacestock.com/uploads/2020/01/shutterstock_185801171.jpg",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "imgSrc": "https://2.bp.blogspot.com/-8RpgggRJZcQ/WQAHWp5ImMI/AAAAAAAABLM/cl4jYzHWb7QxZGLBcXC4MY8IKUMhQC8xACLcB/s1600/peralatan%2Brumah%2Btangga.png",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "imgSrc": "https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/MsxRpV6MIC.jpg",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "imgSrc": "https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/MsxRpV6MIC.jpg",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "imgSrc": "https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/MsxRpV6MIC.jpg",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "imgSrc": "https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/MsxRpV6MIC.jpg",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "imgSrc": "https://ds393qgzrxwzn.cloudfront.net/resize/c700x700/cat1/img/images/0/Or2IsnhtBn.jpg",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "imgSrc": "https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/MsxRpV6MIC.jpg",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "imgSrc": "https://ds393qgzrxwzn.cloudfront.net/resize/m500x500/cat1/img/images/0/MsxRpV6MIC.jpg",
+      "title": "Alat-alat Perabotan Rumah Tangga",
+      "price": 78900,
+      "stock": 10,
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using. Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+      "moreDescription": [
+        {
+          "name": "Great Sofa From Paris",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Durable Sofa",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Friendly",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        },
+        {
+          "name": "Minimal Design",
+          "spek": "Here are all the great cocktail recipes you should know how to make, from the margarita to the whiskey sour. Cheers!"
+        }
+      ]
+    }
+  ],
+  "SummerCollection": [
+    {
+      "id": 1,
+      "src": "https://i.ibb.co/KLDN7Vt/gbarkz-vq-Knu-G8-Ga-Qc-unsplash.png",
+      "name": "Flared Cotton Tank Top",
+      "price": 50000
+    },
+    {
+      "id": 2,
+      "src": "https://i.ibb.co/5vxgf7V/pexels-quang-anh-ha-nguyen-884979-1.png",
+      "name": "Wilfred Arana Dress",
+      "price": 54000
+    },
+    {
+      "id": 3,
+      "src": "https://i.ibb.co/BKsqym2/tracey-hocking-ve-Zp-XKU71c-unsplash.png",
+      "name": "Wilfred Arana Dress",
+      "price": 54000
+    },
+    {
+      "id": 4,
+      "src": "https://i.ibb.co/mbrk1DK/pexels-h-i-nguy-n-4034532.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    },
+    {
+      "id": 5,
+      "src": "https://i.ibb.co/KLDN7Vt/gbarkz-vq-Knu-G8-Ga-Qc-unsplash.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    },
+    {
+      "id": 6,
+      "src": "https://i.ibb.co/5vxgf7V/pexels-quang-anh-ha-nguyen-884979-1.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    },
+    {
+      "id": 7,
+      "src": "https://i.ibb.co/mbrk1DK/pexels-h-i-nguy-n-4034532.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    },
+    {
+      "id": 8,
+      "src": "https://i.ibb.co/BKsqym2/tracey-hocking-ve-Zp-XKU71c-unsplash.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    },
+    {
+      "id": 9,
+      "src": "https://i.ibb.co/mbrk1DK/pexels-h-i-nguy-n-4034532.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    },
+    {
+      "id": 10,
+      "src": "https://i.ibb.co/KLDN7Vt/gbarkz-vq-Knu-G8-Ga-Qc-unsplash.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    },
+    {
+      "id": 11,
+      "src": "https://i.ibb.co/5vxgf7V/pexels-quang-anh-ha-nguyen-884979-1.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    },
+    {
+      "id": 12,
+      "src": "https://i.ibb.co/mbrk1DK/pexels-h-i-nguy-n-4034532.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    },
+    {
+      "id": 13,
+      "src": "https://i.ibb.co/BKsqym2/tracey-hocking-ve-Zp-XKU71c-unsplash.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    },
+    {
+      "id": 14,
+      "src": "https://i.ibb.co/KLDN7Vt/gbarkz-vq-Knu-G8-Ga-Qc-unsplash.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    },
+    {
+      "id": 15,
+      "src": "https://i.ibb.co/5vxgf7V/pexels-quang-anh-ha-nguyen-884979-1.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    },
+    {
+      "id": 16,
+      "src": "https://i.ibb.co/5vxgf7V/pexels-quang-anh-ha-nguyen-884979-1.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    },
+    {
+      "id": 17,
+      "src": "https://i.ibb.co/mbrk1DK/pexels-h-i-nguy-n-4034532.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    },
+    {
+      "id": 18,
+      "src": "https://i.ibb.co/KLDN7Vt/gbarkz-vq-Knu-G8-Ga-Qc-unsplash.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    },
+    {
+      "id": 19,
+      "src": "https://i.ibb.co/BKsqym2/tracey-hocking-ve-Zp-XKU71c-unsplash.png",
+      "name": "Wilfred Arana Dress",
+      "price": 74000
+    }
+  ]
+}

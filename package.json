@@ -1,0 +1,11 @@
+{
+  "name": "JsonServer",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "lowdb": "^3.0.0"
+  }
+}
